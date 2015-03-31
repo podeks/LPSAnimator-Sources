@@ -1,3 +1,4 @@
+# LPSAnimator-Sources
 Java sources for the LPSAnimator application.
 This application depends upon the Java MathLibraries (by the same author, available in the MathLibraries repository) 
 for creating the LPS graph structures that are the subject of the visualization.
